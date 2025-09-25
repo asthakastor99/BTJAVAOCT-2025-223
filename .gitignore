@@ -1,0 +1,29 @@
+# Ignore system files
+desktop.ini
+
+# Ignore executables and installers
+*.exe
+*.msi
+*.zip
+
+# Ignore images
+*.jpg
+*.jpeg
+*.png
+
+# Ignore class and compiled files
+*.class
+*.o
+*.out
+
+# Ignore IDE folders
+.vscode/
+.idea/
+
+# Ignore Node modules
+node_modules/
+
+# Ignore Mac and Windows system files
+.DS_Store
+Thumbs.db
+
